@@ -15,14 +15,14 @@ email: koushik.hathwar@gmail.com
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: koushikhathwar
+github_username:  koushikhathwar
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: hathwarkoushik
-linkedin_username: hathwarkoushik
+linkedin_username: koushik-hathwar-b4020973
 # xing_username: jekyll
 # pinterest_username: jekyll
 youtube_username: koushikhathwar
@@ -48,8 +48,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Koushik Hathwar, I’m a full stack web developer with over 9 years experience currently specialising in React development. I am currently working for NatWest as a Lead Frontend Software Engineer on their comercial banking platform, Bankline. I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience. I like working creating clean and efficient developer experiences to allow developers to focus on code quality and the end user experience. I have worked with a range of different languages and frameworks and I am always looking for opportunities to work with something new. 
-  The things that I currently have the most experience working with are: ES6 Javascript, React & Redux, Node.js, Java, MySQL, SASS, git and AWS.
+  Hi, my name is Koushik Hathwar, I’m a Cloud developer with over 4 years experience currently specialising in DevOps development. I am currently working for LTIMindtree as a Software Engineer on their comercial banking platform, Bankline. I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience. I like working creating clean and efficient developer experiences to allow developers to focus on code quality and the end user experience. I have worked with a range of different tools and frameworks and I am always looking for opportunities to work with something new. 
+  The things that I currently have the most experience working with are: <mark>Azure</mark> <mark>AWS</mark> <mark> Git</mark> <mark> Kubernates</mark> <mark>Docker</mark> <mark>Jenkins</mark> 
 
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
