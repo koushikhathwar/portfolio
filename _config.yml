@@ -63,9 +63,9 @@ content:
         link: github.com/koushikhathwar
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  koushikhathwar/portfolio
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/koushikhathwar/portfolio
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -102,14 +102,16 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
+  - title: When I'm Not Programming
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      When I’m not sat at my desk I am very active and spend most of my time outdoors. I do a lot a sports such as mountain biking, road cycling, kitesuring and horse riding as well as trying to make time for things like rock climbing and playing some rugby. I currently have 2 horses and find this is a great way to get out of the house and taking my mind of things while learing to showjump.
+      I’m interested in photography and videography as I like to be creative, this is mainly through sport but I enjoy landscape and abstract photography too. I like to showcase my work on instagram if you would like to take a look - hathwarkoushik.
+      Finally during the rest of my free ti
       - Rock climbing
       - Gaming
       - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - [Becoming a ninja](https://www.youtube.com/)
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
