@@ -1,15 +1,15 @@
 # Site
-repository: sproogen/resume-theme
+repository: koushikhathwar/portfolio
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Koushik Hathwar
+title: Cloud DevOps Engineer
+email: koushik.hathwar@gmail.com
+
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -21,19 +21,19 @@ github_username:  sproogen
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: hathwarkoushik
+linkedin_username: hathwarkoushik
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: koushikhathwar
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: techambush.in
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://www.techambush.in
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,7 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name is Koushik Hathwar, I’m a full stack web developer with over 9 years experience currently specialising in React development. I am currently working for NatWest as a Lead Frontend Software Engineer on their comercial banking platform, Bankline. I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience. I like working creating clean and efficient developer experiences to allow developers to focus on code quality and the end user experience. I have worked with a range of different languages and frameworks and I am always looking for opportunities to work with something new. 
+  The things that I currently have the most experience working with are: ES6 Javascript, React & Redux, Node.js, Java, MySQL, SASS, git and AWS.
+
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
@@ -58,7 +60,7 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: github.com/sproogen
+        link: github.com/koushikhathwar
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
