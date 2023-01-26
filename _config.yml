@@ -1,31 +1,31 @@
 # Site
-repository: sproogen/resume-theme
+repository: koushikhathwar/portfolio
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Koushik Hathwar
+title: Cloud / DevOps Engineer
+email: koushik.hathwar@gmail.com
+website: www.github.com/koushikhathwar/portfolio
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
+github_username:  koushik hathwar
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: hathwarkoushik
+linkedin_username: koushikhathwar
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: koushikhathwar
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -33,7 +33,7 @@ youtube_username: globalmtb
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://www.linkedin.com/in/koushik-hathwar-b4020973/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,9 +48,12 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  
+Hi, my name is Koushik Hathwar, I’m a Cloud Engineer with over 4 years experience currently specialising in DevOps. I am currently working for LTIMindtree as a Cloud Enginner on their comercial platform, Bankline.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+I enjoy making CI/CD Pipeline and Experience in UI that is quick and easy to use whilst also giving users an enjoyable experience. I like working creating clean and efficient developer experiences to allow developers to focus on code quality and the end user experience. I have worked with a range of different tools and frameworks and I am always looking for opportunities to work with something new. The things that I currently have the most experience working with are: AWS, Git, Kubernates, Docker, Jenkins, SAAS, PAAS, IaC and Azure.
+
+  I am most skilled in: <mark>AWS</mark> and <mark>Azure</mark>
 
 content:
   - title: Projects # Title for the section
@@ -58,15 +61,15 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: github.com/sproogen
+        link: github.com/koushik hathwar
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  koushik hathwar/portfolio
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            url: github.com/koushik hathwar/portfolio
+          # - title:  Github page for project (eg. koushik hathwar/portfolio)
           #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          #   url: Link to project (eg. koushik hathwar.github.io/portfolio)
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
@@ -100,24 +103,27 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
+  - title: When I'm Not Programming
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      When I’m not sat at my desk I am very active and spend most of my time outdoors. I do a lot a sports such as mountain biking, road cycling, kitesuring and horse riding as well as trying to make time for things like rock climbing and playing some rugby. I currently have 2 horses and find this is a great way to get out of the house and taking my mind of things while learing to showjump.
+      I’m interested in photography and videography as I like to be creative, this is mainly through sport but I enjoy landscape and abstract photography too. I like to showcase my work on instagram if you would like to take a look - jameswgrant.
+      Finally during the rest of my free time you will either find me working on my bikes, rock climbing at one of Bristol’s indoor climbing centres or down ‘The Rec’ supporting Bath Rugby.
+
       - Rock climbing
       - Gaming
       - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - [Becoming a ninja](https://www.youtube.com/)
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](/portfolio/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: koushik hathwar/portfolio
 
 sass:
   sass_dir: _sass
