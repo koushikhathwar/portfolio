@@ -51,11 +51,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  "Hey there, I'm Koushik Hathwar 💁‍♂️. Nice to meet you!", I’m a Cloud developer with over 4 years experience currently specialising in DevOps development. I am currently working for LTIMindtree as a Software Engineer on their comercial banking platform, Bankline. I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience. I like working creating clean and efficient developer experiences to allow developers to focus on code quality and the end user experience. I have worked with a range of different tools and frameworks and I am always looking for opportunities to work with something new. 
+  "Hey there, I'm Koushik Hathwar 👋. Nice to meet you!", I’m a Cloud developer with over 4 years experience currently specialising in DevOps development. I am currently working for LTIMindtree as a Software Engineer on their comercial banking platform, Bankline. I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience. I like working creating clean and efficient developer experiences to allow developers to focus on code quality and the end user experience. I have worked with a range of different tools and frameworks and I am always looking for opportunities to work with something new. 
   The things that I currently have the most experience working with are: <mark>Azure</mark> <mark>AWS</mark> <mark> Git</mark> <mark> Kubernates</mark> <mark>Docker</mark> <mark>Jenkins</mark> 
 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza each_slice</mark>
+  I am most skilled in: <mark>AWS</mark>, <mark>Azure</mark> and <mark>🍕</mark>
 
 content:
   - title: Projects # Title for the section
@@ -92,10 +92,10 @@ content:
             Every company needs its client management properly administered and The ltimindtree is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I was part of team of 20 people and enjoy driving the company to try new technologies.
 
        - layout: left
-        title: Mindtree L&T Company
-        link: LTIMindtree.com
-        # link_text: boringcompany.com
-        sub_title: Senior Software Engineer 
+        title: IISc Bengaluru
+        link: iisc.ac.in
+        # link_text: IISc.ac.in
+        sub_title: Research Ass 
         caption: March 2021 - August 2022
         quote: >
           Solving 21st century problems by diging holes and making cloud configurations like the *not a flamethrower*
