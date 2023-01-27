@@ -143,7 +143,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my degree at VTU I learnt lots of key skills such as team work and project management. Although we mainly focused on software development and the principles of programming I use a lot of these skills to my advantage in my day to day work.
 
-          While at Uni I spent a lot of my free time with the entrepreneurship society. I spent 3 years on the committee as a secretary, later co-founded a tech company<a href="https://www.techambush.in/">Techambush</a>with my friend for web-design and social media promotions. During this time I took on roles from organising websites and designing posters to organising a event in college.
+          While at Uni I spent a lot of my free time with the entrepreneurship society. I spent 3 years on the committee as a secretary, later co-founded a tech company <a href="https://www.techambush.in/">Techambush</a> with my friend for web-design and social media promotions. During this time I took on roles from organising websites and designing posters to organising a event in college.
 
   - title: When I'm Not Programming
     layout: text
