@@ -32,9 +32,6 @@ orcid_username: 0000-0003-4708-6596
 
 # Additional icon links
 #additional_links:
-#- title: techambush.in
- # icon: fas fa-globe
- # url: https://www.techambush.in
 - title: Medium link
   icon: fab fa-medium
   url: https://medium.com/@koushik.hathwar
