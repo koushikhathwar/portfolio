@@ -21,7 +21,7 @@ github_username:  koushikhathwar
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-# medium_username: koushik.hathwar
+medium_username: koushik.hathwar
 instagram_username: hathwarkoushik
 linkedin_username: koushik-hathwar-b4020973
 # xing_username: jekyll
@@ -31,6 +31,7 @@ linkedin_username: koushik-hathwar-b4020973
 orcid_username: 0000-0003-4708-6596
 
 # Additional icon links
+additional_links:
 - title: Medium link
   icon: fab fa-medium
   url: https://medium.com/@koushik.hathwar
@@ -129,24 +130,6 @@ content:
           During my time at ATU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent my free time as a committee member of the *ATU Table Tennis Club* taking on roles such as *ACM Member* and *Vice-President*.
-
-   - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak
-        title: ATU Donegal 
-        caption: 2022 - 2023
-        sub_title: MS Cloud-DevOps
-        link: www.lyit.ie
-        #link_text: lyit.ie
-        quote: >
-          Atlantic Technological University (ATU) Donegal fosters one of the most progressive learning environments in Ireland. 
-        description: | # this will include new lines to allow paragraphs
-          During my time at ATU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent my free time as a committee member of the *ATU Table Tennis Club* taking on roles such as *ACM Member* and *Vice-President*.
-
 
   - title: When I'm Not Programming
     layout: text
