@@ -130,6 +130,24 @@ content:
 
           I spent my free time as a committee member of the *ATU Table Tennis Club* taking on roles such as *ACM Member* and *Vice-President*.
 
+   - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak
+        title: ATU Donegal 
+        caption: 2022 - 2023
+        sub_title: MS Cloud-DevOps
+        link: www.lyit.ie
+        #link_text: lyit.ie
+        quote: >
+          Atlantic Technological University (ATU) Donegal fosters one of the most progressive learning environments in Ireland. 
+        description: | # this will include new lines to allow paragraphs
+          During my time at ATU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+          I spent my free time as a committee member of the *ATU Table Tennis Club* taking on roles such as *ACM Member* and *Vice-President*.
+
+
   - title: When I'm Not Programming
     layout: text
     content: | # this will include new lines to allow paragraphs
