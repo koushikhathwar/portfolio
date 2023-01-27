@@ -85,8 +85,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        border: weak
         title: Mindtree L&T Company
-        link: LTIMindtree
+        link: mindtree
         # link_text: ltiMindtree.com
         sub_title: Senior Software Engineer 
         caption: March 2021 - August 2022
@@ -98,7 +99,7 @@ content:
       - layout: left
         border: weak
         title: Mindtree L&T Company
-        link: LTIMindtree.com
+        link: mindtree
         #link_text: ltiMindtree.com
         sub_title: Senior Software Engineer 
         caption: March 2021 - August 2022
