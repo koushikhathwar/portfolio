@@ -59,7 +59,7 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>Mysql</mark>,
   <mark>Iac</mark> and
   <mark>PaaS</mark>.
-  <br>
+  
   I am most skilled in: <mark>AWS</mark><mark>Azure</mark> and <mark>🍕</mark>
 
 content:
@@ -111,10 +111,11 @@ content:
           IISc retains top position, 8 IITs in overall list: THE World University Rankings
         description: | # this will include new lines to allow paragraphs
           Worked on IaaC Azure services, SAAS Infrastructure Architect and Implement SaaS solutions on Azure. Creation of <mark>CI/CD</mark> pipeline and Monitoring the Azure Microservices Ensuring the bottlenecks in the Cloud infrastructure are identified and fine-tuning is done for optimal performance Collaborated with internal and customers functional and technical teams to ensure Azure based solutions are appropriately engineered, tested & deployed.
-          •	Managing, designing, planning and implementing <mark>Azure IoT Pipeline</mark>.
-          •	Have sound Knowledge of Azure SaaS and PaaS services with experienced with Azure <mark>IoT Hub</mark>, <mark>Event Hubs</mark>, <mark>Power Bi</mark>.
-          •	Hands on experience on Cloud design patterns- Understanding RDBMS databases & Azure blob storage
-          •	Experience of premises cloud Service. Knowledge on other competitive platforms like Amazon Web Services (AWS).
+          Managing, designing, planning and implementing <mark>Azure IoT Pipeline</mark>.
+          obtained Knowledge of Azure SaaS and PaaS services with experienced in Azure <mark>IoT Hub</mark>, <mark>Event Hubs</mark>, <mark>Power Bi</mark>.
+          
+          Gained experience on Cloud design patterns- Understanding RDBMS databases & Azure blob storage
+          Experience of premises cloud Service. Knowledge on other competitive platforms like Amazon Web Services (AWS).
 
 
   - title: Education # Title for the section
@@ -125,11 +126,11 @@ content:
         caption: 2022 - 2023
         sub_title: MS DevOps
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Atlantic Technological University (ATU) Donegal fosters one of the most progressive learning environments in Ireland. 
         description: | # this will include new lines to allow paragraphs
           During my time at ATU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *ATU Table Tennis Club* taking on roles such as *ACM Member* and *Vice-President*.
+          I spent my free time as a committee member of the *ATU Table Tennis Club* taking on roles such as *ACM Member* and *Vice-President*.
 
   - title: When I'm Not Programming
     layout: text
