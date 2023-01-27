@@ -83,23 +83,13 @@ content:
       - layout: left
         title: Mindtree L&T Company
         link: LTIMindtree.com
-        # link_text: boringcompany.com
+        # link_text: ltiMindtree.com
         sub_title: Senior Software Engineer 
         caption: March 2021 - August 2022
         quote: >
           Solving 21st century problems by diging holes and making cloud configurations like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Every company needs its client management properly administered and The ltimindtree is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I was part of team of 20 people and enjoy driving the company to try new technologies.
-
-   - title: IISc Bengaluru
-     link: iisc.ac.in
-     # link_text: IISc.ac.in
-      sub_title: Research Ass 
-      caption: March 2021 - August 2022
-      quote: >
-        Solving 21st century problems by diging holes and making cloud configurations like the *not a flamethrower*
-      description: | # this will include new lines to allow paragraphs
-        Every company needs its client management properly administered and The ltimindtree is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I was part of team of 20 people and enjoy driving the company to try new technologies.
 
 
   - title: Education # Title for the section
