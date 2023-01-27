@@ -31,7 +31,10 @@ linkedin_username: koushik-hathwar-b4020973
 orcid_username: 0000-0003-4708-6596
 
 # Additional icon links
-#additional_links:
+additional_links:
+- title: techambush.in
+  icon: fas fa-globe
+  url: https://www.techambush.in
 - title: Medium link
   icon: fab fa-medium
   url: https://medium.com/@koushik.hathwar
@@ -85,7 +88,7 @@ content:
       - layout: left
         border: weak
         title: Mindtree L&T Company
-        link: www.ltimindtree.com
+        link: mindtree
         # link_text: ltiMindtree.com
         sub_title: Senior Software Engineer 
         caption: March 2021 - August 2022
@@ -93,13 +96,13 @@ content:
           Solving 21st century problems by diging holes and making cloud configurations like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Every company needs its client management properly administered and The ltimindtree is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I was part of team of 20 people and enjoy driving the company to try new technologies.
-            Taken accountability for the cloud support of the cloud infrastructure IoT product area within a commercial industry platform, becoming a go to for knowledge and technical decisions.Developing a cloud architecture transforming the <mark>on-premises</mark> data into cloud modular application with micro-services using. This has been a great experience to develop a new workflow on cloud to develop and maintain code and have input in all aspects of the development workflow.
+            Taken accountability for the cloud support of the cloud infrastructure IoT product area within a commercial industry platform, becoming a go to for knowledge and technical decisions.Developing a cloud architecture transforming the <mark>on-premasis</mark> data into cloud modular application with micro-services using. This has been a great experience to develop a new workflow on cloud to develop and maintain code and have input in all aspects of the development workflow.
 
 
       - layout: left
         border: weak
         title: IISc India  
-        link: www.iisc.ac.in
+        link: IIsc
         #link_text: iisc.ac.in
         sub_title: Research Assistance  
         caption: Febuary 2020 - March 2021
@@ -122,7 +125,7 @@ content:
         title: ATU Donegal 
         caption: 2022 - 2023
         sub_title: MS Cloud-DevOps
-        link: www.lyit.ie
+        link: atu
         #link_text: lyit.ie
         quote: >
           Atlantic Technological University (ATU) Donegal fosters one of the most progressive learning environments in Ireland. 
@@ -139,7 +142,7 @@ content:
       Finally during the rest of my free time you will either find me working on my bikes, rock climbing at one of ATU indoor climbing centres or down ‘The Rec’ supporting NBA.
 
 # Footer
-footer_show_references: false
+footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
