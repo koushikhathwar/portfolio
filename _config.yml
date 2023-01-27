@@ -109,7 +109,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Worked on IaaC Azure services, SAAS Infrastructure Architect and Implement SaaS solutions on Azure. Creation of <mark>CI/CD</mark> pipeline and Monitoring the Azure Microservices Ensuring the bottlenecks in the Cloud infrastructure are identified and fine-tuning is done for optimal performance Collaborated with internal and customers functional and technical teams to ensure Azure based solutions are appropriately engineered, tested & deployed.
           Managing, designing, planning and implementing <mark>Azure IoT Pipeline</mark>.
-          obtained Knowledge of Azure SaaS and PaaS services with experienced in Azure <mark>IoT Hub</mark>, <mark>Event Hubs</mark>, <mark>Power Bi</mark>.
+          obtained Knowledge of Azure SaaS and PaaS services with experienced in Azure <mark>IoT Hub</mark>, <mark>Event Hubs</mark>, <mark>Power BI</mark>.
           
           Gained experience on Cloud design patterns- Understanding RDBMS databases & Azure blob storage
           Experience of premises cloud Service. Knowledge on other competitive platforms like Amazon Web Services (AWS).
@@ -133,17 +133,17 @@ content:
           I spent my free time as a committee member of the *ATU Table Tennis Club* taking on roles such as *ACM Member* and *Vice-President*.
 
       - layout: left
-        title: VVCE India 
-        caption: 2022 - 2023
-        sub_title: MS Cloud-DevOps
-        link: www.lyit.ie
+        title: VVCE -VTU India 
+        caption: 2013 - 2017
+        sub_title: BE Computer Science
+        link: www.vvce.ac.in
         #link_text: lyit.ie
         quote: >
-          Atlantic Technological University (ATU) Donegal fosters one of the most progressive learning environments in Ireland. 
+          VTU is one of the largest Technological Universities in India with 24 years of Tradition of excellence in Engineering & Technical Education, Research and Innovations. 
         description: | # this will include new lines to allow paragraphs
-          During my time at ATU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my degree at VTU I learnt lots of key skills such as team work and project management. Although we mainly focused on software development and the principles of programming I use a lot of these skills to my advantage in my day to day work.
 
-          I spent my free time as a committee member of the *ATU Table Tennis Club* taking on roles such as *ACM Member* and *Vice-President*.
+          While at Uni I spent a lot of my free time with the entrepreneurship society. I spent 3 years on the committee as a secretary, later co-founded a tech company with my classmates for web-design and social media promotions. During this time I took on roles from organising transport and designing posters to organising a event in college.
 
   - title: When I'm Not Programming
     layout: text
