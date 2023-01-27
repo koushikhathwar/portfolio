@@ -21,7 +21,7 @@ github_username:  koushikhathwar
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-#Medium_username: @koushik.hathwar
+medium_username: koushik.hathwar
 instagram_username: hathwarkoushik
 linkedin_username: koushik-hathwar-b4020973
 # xing_username: jekyll
@@ -35,9 +35,7 @@ additional_links:
 - title: techambush.in
   icon: fas fa-globe
   url: https://www.techambush.in
-- title: Medium link
-  icon: fas fa-medium
-  url: https://medium.com/@koushik.hathwar
+
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 
