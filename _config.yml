@@ -137,8 +137,8 @@ content:
       Finally during the rest of my free time you will either find me working on my bikes, rock climbing at one of ATU indoor climbing centres or down ‘The Rec’ supporting NBA.
 
 # Footer
-footer_show_references: true
-# references_title:
+footer_show_references: false
+# references_title: References on request
 
 # Build settings
 remote_theme: sproogen/resume-theme
