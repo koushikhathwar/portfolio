@@ -121,7 +121,7 @@ content:
       - layout: left
         border: weak
         title: ATU Donegal 
-        caption: '2023
+        caption: 2022 - 2023
         sub_title: MS Cloud-DevOps
         link: www.lyit.ie
         #link_text: lyit.ie
@@ -134,7 +134,7 @@ content:
 
       - layout: left
         title: VVCE India 
-        caption: '2017
+        caption: 2022 - 2023
         sub_title: MS Cloud-DevOps
         link: www.lyit.ie
         #link_text: lyit.ie
