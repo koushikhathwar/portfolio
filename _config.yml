@@ -124,7 +124,9 @@ content:
       - layout: left
         title: ATU Donegal 
         caption: 2022 - 2023
-        sub_title: MS DevOps
+        sub_title: MS Cloud-DevOps
+        link: atu-donegal
+        #link_text: lyit.ie
         quote: >
           Atlantic Technological University (ATU) Donegal fosters one of the most progressive learning environments in Ireland. 
         description: | # this will include new lines to allow paragraphs
