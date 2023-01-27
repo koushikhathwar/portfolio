@@ -88,7 +88,7 @@ content:
       - layout: left
         border: weak
         title: Mindtree L&T Company
-        link: mindtree
+        link: www.ltimindtree.com
         # link_text: ltiMindtree.com
         sub_title: Senior Software Engineer 
         caption: March 2021 - August 2022
@@ -102,7 +102,7 @@ content:
       - layout: left
         border: weak
         title: IISc India  
-        link: IIsc
+        link: www.iisc.ac.in
         #link_text: iisc.ac.in
         sub_title: Research Assistance  
         caption: Febuary 2020 - March 2021
@@ -125,7 +125,7 @@ content:
         title: ATU Donegal 
         caption: 2022 - 2023
         sub_title: MS Cloud-DevOps
-        link: atu-donegal
+        link: www.lyit.ie
         #link_text: lyit.ie
         quote: >
           Atlantic Technological University (ATU) Donegal fosters one of the most progressive learning environments in Ireland. 
