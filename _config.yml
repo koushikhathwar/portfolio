@@ -101,7 +101,7 @@ content:
         border: weak
         title: IISc India  
         link: www.iisc.ac.in
-        #link_text: iisc.ac.in
+        # link_text: iisc.ac.in
         sub_title: Research Assistance  
         caption: Febuary 2020 - March 2021
         quote: >
@@ -123,7 +123,7 @@ content:
         caption: 2022 - 2023
         sub_title: MS Cloud-DevOps
         link: www.lyit.ie
-        #link_text: lyit.ie
+        # link_text: lyit.ie
         quote: >
           Atlantic Technological University (ATU) Donegal fosters one of the most progressive learning environments in Ireland. 
         description: | # this will include new lines to allow paragraphs
