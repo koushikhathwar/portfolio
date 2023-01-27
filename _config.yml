@@ -122,7 +122,7 @@ content:
         border: weak
         title: ATU Donegal 
         caption: 2023
-        sub_title: MS Cloud-DevOps
+        sub_title: MS DevOps
         link: www.lyit.ie
         #link_text: lyit.ie
         quote: >
@@ -133,7 +133,7 @@ content:
           I spent my free time as a committee member of the *ATU Table Tennis Club* taking on roles such as *ACM Member* and *Vice-President*.
 
       - layout: left
-        title: VTU India 
+        title: Vvce VTU India 
         caption: 2017
         sub_title: BE Computer Science
         link: www.vvce.ac.in
