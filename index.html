@@ -1,66 +1,78 @@
+To incorporate your Ruby configuration settings into an HTML file, you can use JavaScript to define an object containing these settings. Here's how you can do it:
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Site Configuration</title>
+    <title>Your Website Title</title>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2CXJMFFB28"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        
+        gtag('config', 'G-2CXJMFFB28');
+    </script>
 </head>
 <body>
-    <h1>Site Configuration</h1>
+    <!-- Your website content here -->
 
-    <h2>Site</h2>
-    <ul>
-        <li>Repository: koushikhathwar/portfolio</li>
-        <li>Favicon: <img src="images/favicon.ico" alt="Favicon"></li>
-    </ul>
+    <!-- Ruby configuration settings -->
+    <script>
+        var config = {
+            repository: "koushikhathwar/portfolio",
+            favicon: "images/favicon.ico",
+            version: 2,
+            name: "Koushik Hathwar",
+            title: "Cloud DevOps Engineer",
+            email: "koushik.hathwar@gmail.com",
+            darkmode: false,
+            github_username: "koushikhathwar",
+            instagram_username: "hathwarkoushik",
+            linkedin_username: "koushik-hathwar-b4020973",
+            orcid_username: "0000-0003-4708-6596",
+            additional_links: [
+                {
+                    title: "Medium link",
+                    icon: "fab fa-medium",
+                    url: "https://medium.com/@koushik.hathwar"
+                }
+            ]
+            // Add more configuration settings as needed
+        };
+    </script>
 
-    <h2>Content Configuration Version</h2>
-    <p>Version: 2</p>
+    <!-- JavaScript code to dynamically generate HTML based on config -->
+    <script>
+        // Function to create social links HTML
+        function generateSocialLinks() {
+            var linksHTML = '';
+            if (config.additional_links && config.additional_links.length > 0) {
+                config.additional_links.forEach(function(link) {
+                    linksHTML += '<a href="' + link.url + '" title="' + link.title + '"><i class="' + link.icon + '"></i></a>';
+                });
+            }
+            return linksHTML;
+        }
 
-    <h2>Personal Info</h2>
-    <ul>
-        <li>Name: Koushik Hathwar</li>
-        <li>Title: Cloud DevOps Engineer</li>
-        <li>Email: koushik.hathwar@gmail.com</li>
-    </ul>
+        // Function to create about section HTML
+        function generateAboutSection() {
+            var aboutHTML = '';
+            if (config.about_content) {
+                aboutHTML += '<div class="about-section">';
+                aboutHTML += '<img src="' + config.about_profile_image + '" alt="Profile Picture">';
+                aboutHTML += '<p>' + config.about_content + '</p>';
+                aboutHTML += '</div>';
+            }
+            return aboutHTML;
+        }
 
-    <h2>Dark Mode</h2>
-    <p>Dark Mode: false</p>
-
-    <h2>Social Links</h2>
-    <ul>
-        <li>Github Username: koushikhathwar</li>
-        <li>Instagram Username: hathwarkoushik</li>
-        <li>LinkedIn Username: koushik-hathwar-b4020973</li>
-        <li>Orcid Username: 0000-0003-4708-6596</li>
-        <li>Additional Links:
-            <ul>
-                <li>Medium link: <a href="https://medium.com/@koushik.hathwar">Medium</a></li>
-            </ul>
-        </li>
-    </ul>
-
-    <h2>Google Analytics and Tag Manager</h2>
-    <ul>
-        <li>Google Tag Manager: G-2CXJMFFB28</li>
-        <li>Google Analytics: UA-00000000-0</li>
-    </ul>
-
-    <h2>About Section</h2>
-    <img src="images/profile.jpg" alt="Profile Image">
-    <p>
-        "Hey there, I'm Koushik Hathwar 👋. Nice to meet you!", I’m a Cloud developer with over 4 years experience currently specializing in DevOps development. I am currently MS student at ATU donegal on Cloud-DevOps. I enjoy making IaC and infrastructure on cloud UI that is quick and easy to use whilst also giving users an enjoyable experience. I have worked with a range of different tools and frameworks and I am always looking for opportunities to work with something new.
-    </p>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-2CXJMFFB28"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-2CXJMFFB28');
-</script>
-    <!-- Add more sections as needed -->
-
+        // Call functions to generate HTML and insert into document
+        document.body.innerHTML += generateSocialLinks();
+        document.body.innerHTML += generateAboutSection();
+    </script>
 </body>
 </html>
