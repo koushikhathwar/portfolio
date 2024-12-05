@@ -1,164 +1,129 @@
-# Site
+# Site Configuration
 repository: koushikhathwar/portfolio
 favicon: images/favicon.ico
 
-# Content configuration version
+# Content Configuration Version
 version: 2
 
-# Personal info
+# Personal Info
 name: Koushik Hathwar
 title: Cloud DevOps Engineer
 email: koushik.hathwar@gmail.com
 
-
 # Dark Mode (true/false/never)
 darkmode: false
 
-# Social links
-#twitter_username: koushikhathwar
-github_username:  koushikhathwar
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# medium_username: koushik.hathwar
+# Social Links
+github_username: koushikhathwar
 instagram_username: hathwarkoushik
 linkedin_username: koushik-hathwar-b4020973
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: koushikhathwar
-# googleplus_username: +jekyll
 orcid_username: 0000-0003-4708-6596
 google_analytics: G-2CXJMFFB28
 gtag: G-2CXJMFFB28
 
-# Additional icon links
+# Additional Links
 additional_links:
-- title: Medium link
-  icon: fab fa-medium
-  url: https://medium.com/@koushik.hathwar
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "G-2CXJMFFB28"
-# google_analytics: "UA-00000000-0"
+  - title: Medium Profile
+    icon: fab fa-medium
+    url: https://medium.com/@koushik.hathwar
 
 # About Section
-# about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  "Hey there, I'm Koushik Hathwar 👋. Nice to meet you!", I’m a Cloud developer with over 4 years experience currently specialising in DevOps development.I am currently MS student at ATU donegal on Cloud-DevOps. I enjoy making Iac and infrastructure on cloud UI that is quick and easy to use whilst also giving users an enjoyable experience.I have worked with a range of different tools and frameworks and I am always looking for opportunities to work with something new. 
-  The things that I currently have the most experience working with are: <mark>Azure</mark> <mark>AWS</mark> <mark> Git</mark> <mark> Kubernates</mark> <mark>Docker</mark> <mark>Jenkins</mark> 
-  <mark>React &amp; Redux</mark>,
-  <mark>Node.js</mark>,
-  <mark>python</mark>,
-  <mark>Mysql</mark>,
-  <mark>Iac</mark> and
-  <mark>PaaS</mark>.
-  
-  I am most skilled in: <mark>AWS</mark><mark>Azure</mark> and <mark>🍕</mark>
+about_content: | 
+  "Hey there, I'm Koushik Hathwar 👋. Nice to meet you!"  
+  I’m a Cloud Developer with over 4 years of experience, currently specializing in DevOps. I am pursuing an MS in Cloud DevOps at ATU Donegal. I enjoy creating Infrastructure as Code (IaC) and cloud infrastructure UI that is efficient, user-friendly, and enjoyable.
 
+  I have experience with a wide range of tools and frameworks and constantly seek opportunities to explore new ones. My core expertise includes:  
+  **Azure**, **AWS**, **Git**, **Kubernetes**, **Docker**, **Jenkins**, **React & Redux**, **Node.js**, **Python**, **MySQL**, **IaC**, and **PaaS**.  
+
+  I excel in: **AWS**, **Azure**, and **🍕**.
+
+# Content
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects
+    layout: list
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/koushikhathwar
-        # link_text: Project Website
+        title: Super Awesome Project
+        link: https://github.com/koushikhathwar
         additional_links:
-          - title:  koushikhathwar/portfolio
+          - title: koushikhathwar/portfolio
             icon: fab fa-github
-            url: github.com/koushikhathwar/portfolio
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+            url: https://github.com/koushikhathwar/portfolio
         quote: >
-          A modern simple static resume template and theme. Powered by Jekyll and GitHub pages. 
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          A modern, simple static resume template and theme powered by Jekyll and GitHub Pages.
+        description: |
+          I started this project as a way to learn **React**, and it has since grown into a fully-fledged application.  
+          Through this project, I gained many skills and am proud to include it in my portfolio. If you don't have a project as cool as this, I highly recommend starting one!
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience
+    layout: list
     content:
       - layout: left
         border: weak
-        title: Mindtree L&T Company
-        link: www.ltimindtree.com
-        # link_text: ltiMindtree.com
-        sub_title: Senior Software Engineer 
+        title: Mindtree (L&T Company)
+        link: https://www.ltimindtree.com
+        sub_title: Senior Software Engineer
         caption: March 2021 - August 2022
         quote: >
-          Solving 21st century problems by diging holes and making cloud configurations like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its client management properly administered and The ltimindtree is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I was part of team of 20 people and enjoy driving the company to try new technologies.
-            Taken accountability for the cloud support of the cloud infrastructure IoT product area within a commercial industry platform, becoming a go to for knowledge and technical decisions.Developing a cloud architecture transforming the <mark>on-premises</mark> data into cloud modular application with micro-services using. This has been a great experience to develop a new workflow on cloud to develop and maintain code and have input in all aspects of the development workflow.
-
+          Tackling 21st-century challenges through innovative cloud configurations.
+        description: |
+          Played a key role in managing cloud infrastructure for a commercial IoT platform.  
+          - Transformed on-premises systems into modular cloud applications using **microservices**.  
+          - Designed and maintained CI/CD pipelines, driving innovation within a 20-member team.  
+          - Streamlined workflows and ensured scalability across multiple platforms.
 
       - layout: left
         border: weak
-        title: IISc India  
-        link: www.iisc.ac.in
-        #link_text: iisc.ac.in
-        sub_title: Research Assistance  
-        caption: Febuary 2020 - March 2021
+        title: IISc India
+        link: https://www.iisc.ac.in
+        sub_title: Research Assistant
+        caption: February 2020 - March 2021
         quote: >
-          Founded in 1909, the Indian Institute of Science (IIS) is situated in Bangalore, the capital of India’s southern Karnataka state.
-          IISc retains top position, 8 IITs in overall list: THE World University Rankings
-        description: | # this will include new lines to allow paragraphs
-          Worked on IaaC Azure services, SAAS Infrastructure Architect and Implement SaaS solutions on Azure. Creation of <mark>CI/CD</mark> pipeline and Monitoring the Azure Microservices Ensuring the bottlenecks in the Cloud infrastructure are identified and fine-tuning is done for optimal performance Collaborated with internal and customers functional and technical teams to ensure Azure based solutions are appropriately engineered, tested & deployed.
-          Managing, designing, planning and implementing <mark>Azure IoT Pipeline</mark>.
-          obtained Knowledge of Azure SaaS and PaaS services with experienced in Azure <mark>IoT Hub</mark>, <mark>Event Hubs</mark>, <mark>Power BI</mark>.
-          
-          Gained experience on Cloud design patterns- Understanding RDBMS databases & Azure blob storage
-          Experience of premises cloud Service. Knowledge on other competitive platforms like Amazon Web Services (AWS).
+          IISc remains one of India's premier institutions for cutting-edge research and innovation.
+        description: |
+          - Designed and implemented SaaS solutions using **Azure** services.  
+          - Developed CI/CD pipelines and monitored **Azure Microservices** for performance optimization.  
+          - Gained expertise in **Azure IoT Hub**, **Event Hubs**, and **Power BI**.
 
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education
+    layout: list
     content:
       - layout: left
         border: weak
-        title: ATU Donegal 
+        title: ATU Donegal
         caption: 2023
-        sub_title: MS DevOps
-        link: www.lyit.ie
-        #link_text: lyit.ie
+        sub_title: MS in DevOps
+        link: https://www.lyit.ie
         quote: >
-          Atlantic Technological University (ATU) Donegal fosters one of the most progressive learning environments in Ireland. 
-        description: | # this will include new lines to allow paragraphs
-          During my time at ATU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent my free time as a committee member of the *ATU Table Tennis Club* taking on roles such as *ACM Member* and *Vice-President*.
+          ATU Donegal fosters one of the most progressive learning environments in Ireland.
+        description: |
+          Learned teamwork and time management while balancing academics and extracurricular activities.  
+          Vice-President of the **ATU Table Tennis Club**, fostering community engagement.
 
       - layout: left
-        title: VTU India 
+        border: weak
+        title: VTU India
         caption: 2017
-        sub_title: BE Computer Science
-        link: www.vvce.ac.in
-        #link_text: lyit.ie
+        sub_title: BE in Computer Science
+        link: https://www.vvce.ac.in
         quote: >
-          VTU is one of the largest Technological Universities in India with 24 years of Tradition of excellence in Engineering & Technical Education, Research and Innovations. 
-        description: | # this will include new lines to allow paragraphs
-          During my degree at VTU I learnt lots of key skills such as team work and project management. Although we mainly focused on software development and the principles of programming I use a lot of these skills to my advantage in my day to day work.
-
-          While at Uni I spent a lot of my free time with the entrepreneurship society. I spent 3 years on the committee as a secretary, later co-founded a tech company <a href="https://www.techambush.in/">Techambush</a> with my friend for web-design and social media promotions. During this time I took on roles from organising websites and designing posters to organising a event in college.
+          VTU excels in engineering education and technical research across India.
+        description: |
+          Co-founded a tech company, **Techambush**, focusing on web design and social media promotions.  
+          - Enhanced project management skills through leadership roles in the entrepreneurship society.
 
   - title: When I'm Not Programming
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      When I’m not sat at my desk I am very active and spend most of my time outdoors. I do a lot a sports such as mountain biking, road cycling, cooking and watching F1 as well as trying to make time for things like Hiking and playing some cricket. I currently have 2 dogs and find this is a great way to get out of the house and taking my mind of things while learing to showjump.
-      I’m interested in autocross, cycling, Tifosi and badminton, this is mainly through sport but I enjoy Creating websites and abstract photography too. My work on <a href="https://www.instagram.com/hathwarkoushik/">Instagram</a> if you would like to take a look - hathwarkoushik.
-      Finally during the rest of my free time you will either find me cruising down the streets on my trusty two-wheeled steeds (joking 😄) or down ‘The Rec’ supporting GSW.
+    content: |
+      When I’m not programming, I enjoy exploring the outdoors through hiking, cycling, and cricket.  
+      I’m passionate about abstract photography and sharing my work on [Instagram](https://www.instagram.com/hathwarkoushik/).  
+      Additionally, I love watching Formula 1 and spending time with my two dogs.
 
 # Footer
 footer_show_references: false
-# references_title: References on request (Override references text)
 
-# Build settings
+# Build Settings
 remote_theme: sproogen/resume-theme
 
 sass:
@@ -167,4 +132,3 @@ sass:
 
 plugins:
  - jekyll-seo-tag
- 
