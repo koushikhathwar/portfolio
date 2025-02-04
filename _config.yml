@@ -7,7 +7,7 @@ version: 2
 
 # Personal Info
 name: Koushik Hathwar
-title: Cloud DevOps Engineer
+title: Cloud DevOps Engineer | MS Student at ATU Donegal
 email: koushik.hathwar@gmail.com
 
 # Dark Mode (true/false/never)
@@ -30,8 +30,22 @@ additional_links:
 # About Section
 about_profile_image: images/profile.jpg
 about_content: | 
+<<<<<<< HEAD
   "Hey there, I'm Koushik Hathwar 👋. Nice to meet you!"  
   I’m a Cloud Developer with over 4 years of experience, currently specializing in DevOps. I am pursuing an MS in Cloud DevOps at ATU Donegal. I enjoy creating Infrastructure as Code (IaC) and cloud infrastructure UI that is efficient, user-friendly, and enjoyable.
+=======
+  Hi there! 👋 I'm Koushik Hathwar, a Cloud DevOps Engineer with over 4 years of experience. Currently pursuing my MS in Cloud-DevOps at ATU Donegal, I specialize in building robust cloud infrastructure and implementing DevOps practices.
+
+  My expertise includes:
+  - Cloud Platforms: <mark>AWS</mark> <mark>Azure</mark>
+  - Container Orchestration: <mark>Kubernetes</mark> <mark>Docker</mark>
+  - CI/CD: <mark>Jenkins</mark> <mark>GitHub Actions</mark>
+  - Infrastructure as Code: <mark>Terraform</mark> <mark>CloudFormation</mark>
+  - Programming: <mark>Python</mark> <mark>Node.js</mark> <mark>React</mark>
+  - Databases: <mark>MySQL</mark> <mark>MongoDB</mark>
+
+  I'm passionate about cloud-native solutions and infrastructure automation, always seeking opportunities to work with cutting-edge technologies.
+>>>>>>> faba695 (changes)
 
   I have experience with a wide range of tools and frameworks and constantly seek opportunities to explore new ones. My core expertise includes:  
   **Azure**, **AWS**, **Git**, **Kubernetes**, **Docker**, **Jenkins**, **React & Redux**, **Node.js**, **Python**, **MySQL**, **IaC**, and **PaaS**.  
@@ -44,6 +58,7 @@ content:
     layout: list
     content:
       - layout: top-middle
+<<<<<<< HEAD
         title: Super Awesome Project
         link: https://github.com/koushikhathwar
         additional_links:
@@ -55,6 +70,23 @@ content:
         description: |
           I started this project as a way to learn **React**, and it has since grown into a fully-fledged application.  
           Through this project, I gained many skills and am proud to include it in my portfolio. If you don't have a project as cool as this, I highly recommend starting one!
+=======
+        title: Cloud Infrastructure Automation Portfolio
+        link: github.com/koushikhathwar
+        additional_links:
+          - title: koushikhathwar/portfolio
+            icon: fab fa-github
+            url: github.com/koushikhathwar/portfolio
+        quote: >
+          A collection of infrastructure as code templates and DevOps automation projects.
+        description: |
+          This portfolio showcases my expertise in cloud infrastructure and DevOps practices, featuring:
+          - Infrastructure as Code templates for AWS and Azure
+          - Kubernetes deployment configurations
+          - CI/CD pipeline implementations
+          - Cloud architecture designs
+          - Automation scripts and tools
+>>>>>>> faba695 (changes)
 
   - title: Experience
     layout: list
@@ -80,11 +112,23 @@ content:
         sub_title: Research Assistant
         caption: February 2020 - March 2021
         quote: >
+<<<<<<< HEAD
           IISc remains one of India's premier institutions for cutting-edge research and innovation.
         description: |
           - Designed and implemented SaaS solutions using **Azure** services.  
           - Developed CI/CD pipelines and monitored **Azure Microservices** for performance optimization.  
           - Gained expertise in **Azure IoT Hub**, **Event Hubs**, and **Power BI**.
+=======
+          Founded in 1909, the Indian Institute of Science (IIS) is situated in Bangalore, the capital of India's southern Karnataka state.
+          IISc retains top position, 8 IITs in overall list: THE World University Rankings
+        description: | # this will include new lines to allow paragraphs
+          Worked on IaaC Azure services, SAAS Infrastructure Architect and Implement SaaS solutions on Azure. Creation of <mark>CI/CD</mark> pipeline and Monitoring the Azure Microservices Ensuring the bottlenecks in the Cloud infrastructure are identified and fine-tuning is done for optimal performance Collaborated with internal and customers functional and technical teams to ensure Azure based solutions are appropriately engineered, tested & deployed.
+          Managing, designing, planning and implementing <mark>Azure IoT Pipeline</mark>.
+          obtained Knowledge of Azure SaaS and PaaS services with experienced in Azure <mark>IoT Hub</mark>, <mark>Event Hubs</mark>, <mark>Power BI</mark>.
+          
+          Gained experience on Cloud design patterns- Understanding RDBMS databases & Azure blob storage
+          Experience of premises cloud Service. Knowledge on other competitive platforms like Amazon Web Services (AWS).
+>>>>>>> faba695 (changes)
 
   - title: Education
     layout: list
@@ -115,10 +159,17 @@ content:
 
   - title: When I'm Not Programming
     layout: text
+<<<<<<< HEAD
     content: |
       When I’m not programming, I enjoy exploring the outdoors through hiking, cycling, and cricket.  
       I’m passionate about abstract photography and sharing my work on [Instagram](https://www.instagram.com/hathwarkoushik/).  
       Additionally, I love watching Formula 1 and spending time with my two dogs.
+=======
+    content: | # this will include new lines to allow paragraphs
+      When I'm not sat at my desk I am very active and spend most of my time outdoors. I do a lot a sports such as mountain biking, road cycling, cooking and watching F1 as well as trying to make time for things like Hiking and playing some cricket. I currently have 2 dogs and find this is a great way to get out of the house and taking my mind of things while learing to showjump.
+      I'm interested in autocross, cycling, Tifosi and badminton, this is mainly through sport but I enjoy Creating websites and abstract photography too. My work on <a href="https://www.instagram.com/hathwarkoushik/">Instagram</a> if you would like to take a look - hathwarkoushik.
+      Finally during the rest of my free time you will either find me cruising down the streets on my trusty two-wheeled steeds (joking 😄) or down 'The Rec' supporting GSW.
+>>>>>>> faba695 (changes)
 
 # Footer
 footer_show_references: false
